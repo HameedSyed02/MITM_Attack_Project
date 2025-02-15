@@ -46,3 +46,7 @@ Understanding how ARP works in network communication.
 Gaining insight into the vulnerabilities of local networks and how attackers exploit them.
 Learning how to implement a basic MITM attack using ARP spoofing.
 Recognizing the importance of securing networks against ARP spoofing and MITM attacks.
+
+
+initial setup information:
+![image](https://github.com/user-attachments/assets/4d6afc48-d59f-4d5f-b8ac-d3f828385eb2)
