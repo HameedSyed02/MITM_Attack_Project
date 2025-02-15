@@ -50,3 +50,17 @@ Recognizing the importance of securing networks against ARP spoofing and MITM at
 
 initial setup information:
 ![image](https://github.com/user-attachments/assets/4d6afc48-d59f-4d5f-b8ac-d3f828385eb2)
+
+Before arp spoofing attack:
+![image](https://github.com/user-attachments/assets/99dc55cb-0cfb-476c-b9a3-f4bd2dad3231)
+
+After arp spoofing attack:
+![image](https://github.com/user-attachments/assets/6fb8da01-df13-4f72-8e34-d133181e2ca3)
+
+Initiated MITM attack:
+![image](https://github.com/user-attachments/assets/b759f246-3df3-4cf7-907e-1b3a7c35f7a4)
+![image](https://github.com/user-attachments/assets/50dc41ee-e89b-44c9-b7bc-4ecbf891024c)
+![image](https://github.com/user-attachments/assets/375b8637-ec01-43ad-8698-6eae11a70359)
+
+
+
